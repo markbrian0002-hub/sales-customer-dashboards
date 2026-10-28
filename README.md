@@ -62,7 +62,7 @@ Four CSV files, joined into a single data source named `Sales DataSource`:
 │   ├── Location.csv
 │   ├── Orders.csv
 │   └── Products.csv
-└── images/                # dashboard screenshots (optional)
+└── images/                
 ```
 
 ## How to open
