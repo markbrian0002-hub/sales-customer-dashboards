@@ -80,9 +80,6 @@ Four CSV files, joined into a single data source named `Sales DataSource`:
 ## Author
 
 **Muli Brian Mark**
-Software Engineering (Diploma), Zetech University
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/markbrian0002-hub)
 
-## License
 
-Add a license of your choice (e.g. MIT) or remove this section. If the dataset comes from a public source, credit it here.
