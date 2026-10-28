@@ -77,9 +77,6 @@ Four CSV files, joined into a single data source named `Sales DataSource`:
 - Tableau (packaged workbook, `.twbx`, built with Tableau 2023.2)
 - CSV source data
 
-## Author
 
-**Muli Brian Mark**
-GitHub: [@your-username](https://github.com/markbrian0002-hub)
 
 
